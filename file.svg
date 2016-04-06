@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="75.58854"
-     inkscape:cy="95.093264"
+     inkscape:cx="35.33854"
+     inkscape:cy="156.11185"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -211,7 +211,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -221,10 +221,14 @@
      inkscape:label="icon"
      transform="translate(0,-256)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c08040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 32,256 0,256 192,0 0,-195.3125 L 163.3125,256 z m 16,16 104,0 0,56 56,0 0,168 -160,0 z"
-       id="path3368"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c08040;fill-opacity:1;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 32 0 L 32 256 L 224 256 L 224 68.6875 L 155.3125 0 L 32 0 z M 48 16 L 144 16 L 144 80 L 208 80 L 208 240 L 48 240 L 48 16 z "
+       transform="translate(0,256)"
+       id="path3028" />
+    <path
+       id="path3804"
+       transform="translate(0,256)"
+       d="M 32 0 L 32 256 L 224 256 L 224 68.6875 L 155.3125 0 L 32 0 z M 48 16 L 144 16 L 144 80 L 208 80 L 208 240 L 48 240 L 48 16 z "
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c08040;fill-opacity:1;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>
 </svg>

@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="optical.svg"
-   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\folder.png"
+   sodipodi:docname="launcher.svg"
+   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\launcher.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25">
   <defs
@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="75.58854"
-     inkscape:cy="95.093264"
+     inkscape:cx="135.02964"
+     inkscape:cy="108.94041"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -221,12 +221,9 @@
      inkscape:label="icon"
      transform="translate(0,-256)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#4080c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 128,256 C 57.307552,256 0,313.30755 0,384 c 0,70.69245 57.307552,128 128,128 70.69245,0 128,-57.30755 128,-128 0,-70.69245 -57.30755,-128 -128,-128 z m 0,16 c 30.92795,0 58.91949,12.54449 79.1875,32.8125 L 150.625,361.375 C 144.83414,355.58414 136.83656,352 128,352 l 0,-80 z m 0,93.71875 c 10.09892,0 18.28125,8.18233 18.28125,18.28125 0,10.09892 -8.18233,18.28125 -18.28125,18.28125 -10.09892,0 -18.28125,-8.18233 -18.28125,-18.28125 0,-10.09892 8.18233,-18.28125 18.28125,-18.28125 z M 105.375,406.625 C 111.16586,412.41586 119.16344,416 128,416 l 0,80 C 97.072054,496 69.080514,483.45551 48.8125,463.1875 L 105.375,406.625 z"
-       id="path3328"
-       inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\optical.png"
-       inkscape:export-xdpi="11.25"
-       inkscape:export-ydpi="11.25" />
+       style="fill:#80c040;fill-opacity:1;stroke:none"
+       d="M 0 0 L 32 160 L 0 256 L 224 256 L 256 96 L 224 0 L 0 0 z M 48 64 L 80 64 L 96 144 L 80 192 L 48 192 L 64 144 L 48 64 z M 96 64 L 208 64 L 224 112 L 208 192 L 96 192 L 112 144 L 96 64 z "
+       transform="translate(0,256)"
+       id="path3818" />
   </g>
 </svg>

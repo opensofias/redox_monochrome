@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="optical.svg"
-   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\folder.png"
+   sodipodi:docname="application.svg"
+   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\ion2.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25">
   <defs
@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="75.58854"
-     inkscape:cy="95.093264"
+     inkscape:cx="-12.691853"
+     inkscape:cy="120.81552"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -221,12 +221,24 @@
      inkscape:label="icon"
      transform="translate(0,-256)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#4080c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 128,256 C 57.307552,256 0,313.30755 0,384 c 0,70.69245 57.307552,128 128,128 70.69245,0 128,-57.30755 128,-128 0,-70.69245 -57.30755,-128 -128,-128 z m 0,16 c 30.92795,0 58.91949,12.54449 79.1875,32.8125 L 150.625,361.375 C 144.83414,355.58414 136.83656,352 128,352 l 0,-80 z m 0,93.71875 c 10.09892,0 18.28125,8.18233 18.28125,18.28125 0,10.09892 -8.18233,18.28125 -18.28125,18.28125 -10.09892,0 -18.28125,-8.18233 -18.28125,-18.28125 0,-10.09892 8.18233,-18.28125 18.28125,-18.28125 z M 105.375,406.625 C 111.16586,412.41586 119.16344,416 128,416 l 0,80 C 97.072054,496 69.080514,483.45551 48.8125,463.1875 L 105.375,406.625 z"
-       id="path3328"
-       inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\optical.png"
-       inkscape:export-xdpi="11.25"
-       inkscape:export-ydpi="11.25" />
+       style="fill:#80c040;fill-opacity:1;stroke:none"
+       d="M 0 0 L 12.6875 63.46875 C 21.458738 53.950772 34.036331 48 48 48 L 64 48 L 64 0 L 0 0 z M 96 0 L 96 48 L 160 48 L 160 80 L 96 80 L 96 112 L 112 112 C 138.50967 112 160 133.49033 160 160 C 160 186.50967 138.50967 208 112 208 L 96 208 L 96 256 L 224 256 L 256 96 L 224 0 L 96 0 z M 48 80 C 39.16344 80 32 87.16344 32 96 C 32 104.83656 39.16344 112 48 112 L 64 112 L 64 80 L 48 80 z M 27.90625 139.59375 L 32 160 L 26.65625 176 L 64 176 L 64 144 L 48 144 C 40.823697 144 34.020161 142.41668 27.90625 139.59375 z M 96 144 L 96 176 L 112 176 C 120.83656 176 128 168.83656 128 160 C 128 151.16344 120.83656 144 112 144 L 96 144 z M 16 208 L 0 256 L 64 256 L 64 208 L 16 208 z "
+       transform="translate(0,256)"
+       id="path3818" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3033"
+       sodipodi:cx="164"
+       sodipodi:cy="56"
+       sodipodi:rx="56"
+       sodipodi:ry="56"
+       d="m 220,56 a 56,56 0 1 1 -112,0 56,56 0 1 1 112,0 z"
+       transform="translate(20,240)" />
+    <path
+       style="fill:#80c040;fill-opacity:1;stroke:none"
+       d="M 184 0 C 161.90861 4.4408921e-015 144 17.90861 144 40 C 144 62.09139 161.90861 80 184 80 C 206.09139 80 224 62.09139 224 40 C 224 17.90861 206.09139 -8.9439172e-015 184 0 z M 160 32 L 208 32 L 208 48 L 160 48 L 160 32 z "
+       transform="translate(0,256)"
+       id="path3035" />
   </g>
 </svg>

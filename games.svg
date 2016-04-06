@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="optical.svg"
-   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\folder.png"
+   sodipodi:docname="application.svg"
+   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\games.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25">
   <defs
@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="75.58854"
-     inkscape:cy="95.093264"
+     inkscape:cx="-12.691853"
+     inkscape:cy="108.94041"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -221,12 +221,9 @@
      inkscape:label="icon"
      transform="translate(0,-256)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#4080c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 128,256 C 57.307552,256 0,313.30755 0,384 c 0,70.69245 57.307552,128 128,128 70.69245,0 128,-57.30755 128,-128 0,-70.69245 -57.30755,-128 -128,-128 z m 0,16 c 30.92795,0 58.91949,12.54449 79.1875,32.8125 L 150.625,361.375 C 144.83414,355.58414 136.83656,352 128,352 l 0,-80 z m 0,93.71875 c 10.09892,0 18.28125,8.18233 18.28125,18.28125 0,10.09892 -8.18233,18.28125 -18.28125,18.28125 -10.09892,0 -18.28125,-8.18233 -18.28125,-18.28125 0,-10.09892 8.18233,-18.28125 18.28125,-18.28125 z M 105.375,406.625 C 111.16586,412.41586 119.16344,416 128,416 l 0,80 C 97.072054,496 69.080514,483.45551 48.8125,463.1875 L 105.375,406.625 z"
-       id="path3328"
-       inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\optical.png"
-       inkscape:export-xdpi="11.25"
-       inkscape:export-ydpi="11.25" />
+       style="fill:#80c040;fill-opacity:1;stroke:none"
+       d="M 0 0 L 12.8125 64 L 48 64 L 48 32 L 80 32 L 80 64 L 112 64 L 112 96 L 80 96 L 80 128 L 48 128 L 48 96 L 19.1875 96 L 32 160 L 0 256 L 224 256 L 256 96 L 252.28125 84.84375 C 248.02412 91.545144 240.52714 96 232 96 C 218.74517 96 208 85.254834 208 72 C 208 58.745166 218.74517 48 232 48 C 235.00468 48 237.88043 48.55412 240.53125 49.5625 L 224 0 L 0 0 z M 168 64 C 181.25483 64 192 74.745166 192 88 C 192 101.25483 181.25483 112 168 112 C 154.74517 112 144 101.25483 144 88 C 144 74.745166 154.74517 64 168 64 z M 64 160 L 96 160 C 96 177.67311 110.32689 192 128 192 C 145.67311 192 160 177.67311 160 160 L 192 160 C 192 195.34622 163.34622 224 128 224 C 92.653777 224 64 195.34622 64 160 z "
+       transform="translate(0,256)"
+       id="path3818" />
   </g>
 </svg>

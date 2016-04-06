@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="optical.svg"
-   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\folder.png"
+   sodipodi:docname="action_back.svg"
+   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\action_back.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25">
   <defs
@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="75.58854"
-     inkscape:cy="95.093264"
+     inkscape:cx="-12.691853"
+     inkscape:cy="106.44041"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -222,11 +222,25 @@
      transform="translate(0,-256)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#4080c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 128,256 C 57.307552,256 0,313.30755 0,384 c 0,70.69245 57.307552,128 128,128 70.69245,0 128,-57.30755 128,-128 0,-70.69245 -57.30755,-128 -128,-128 z m 0,16 c 30.92795,0 58.91949,12.54449 79.1875,32.8125 L 150.625,361.375 C 144.83414,355.58414 136.83656,352 128,352 l 0,-80 z m 0,93.71875 c 10.09892,0 18.28125,8.18233 18.28125,18.28125 0,10.09892 -8.18233,18.28125 -18.28125,18.28125 -10.09892,0 -18.28125,-8.18233 -18.28125,-18.28125 0,-10.09892 8.18233,-18.28125 18.28125,-18.28125 z M 105.375,406.625 C 111.16586,412.41586 119.16344,416 128,416 l 0,80 C 97.072054,496 69.080514,483.45551 48.8125,463.1875 L 105.375,406.625 z"
-       id="path3328"
-       inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\optical.png"
-       inkscape:export-xdpi="11.25"
-       inkscape:export-ydpi="11.25" />
+       id="path3311"
+       d="m 0,352 16,32 -16,32 16,0 16,-32 -16,-32 z"
+       style="fill:#40c080;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#40c080;fill-opacity:1;stroke:none"
+       d="m 192,256 -64,128 64,128 -64,0 -64,-128 64,-128 z"
+       id="path3288"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#40c080;fill-opacity:1;stroke:none"
+       d="m 224,352 16,32 -16,32 16,0 16,-32 -16,-32 z"
+       id="path3291"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#40c080;fill-opacity:1;stroke:none"
+       id="rect3293"
+       width="220"
+       height="16"
+       x="24"
+       y="376" />
   </g>
 </svg>

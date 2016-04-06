@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="optical.svg"
-   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\folder.png"
+   sodipodi:docname="filemanager.svg"
+   inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\filemanager.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25">
   <defs
@@ -170,6 +170,155 @@
        x2="-64"
        y2="64"
        gradientTransform="translate(-512.00001,-5.2875e-6)" />
+    <linearGradient
+       gradientTransform="translate(-512.00001,-5.2875e-6)"
+       y2="64"
+       x2="-64"
+       y1="64"
+       x1="64"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4696-5"
+       xlink:href="#linearGradient4640-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="56"
+       x2="280"
+       y1="64"
+       x1="288"
+       gradientTransform="matrix(-1,0,0,-1,544,80)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4114-8"
+       xlink:href="#linearGradient4116-4"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-32,-32)"
+       gradientUnits="userSpaceOnUse"
+       y2="56"
+       x2="280"
+       y1="64"
+       x1="288"
+       id="linearGradient4110-6"
+       xlink:href="#linearGradient4104-1"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="16"
+       x2="256"
+       y1="32"
+       x1="256"
+       gradientTransform="matrix(-0.25,0,0,-1,320,48)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4094-1"
+       xlink:href="#linearGradient4096-1"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.25,0,0,1,192,32)"
+       gradientUnits="userSpaceOnUse"
+       y2="16"
+       x2="192"
+       y1="32"
+       x1="256"
+       id="linearGradient4090-2"
+       xlink:href="#linearGradient4084-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(2,0,0,1,-208,0)"
+       gradientUnits="userSpaceOnUse"
+       y2="16"
+       x2="256"
+       y1="32"
+       x1="256"
+       id="linearGradient4055-2"
+       xlink:href="#linearGradient4049-4"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4049-4">
+      <stop
+         id="stop4051-2"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4053-3"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4084-7"
+       inkscape:collect="always">
+      <stop
+         id="stop4086-6"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4088-1"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4096-1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4098-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4100-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4104-1"
+       inkscape:collect="always">
+      <stop
+         id="stop4106-7"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4108-1"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4116-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4118-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4120-5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4640-8"
+       inkscape:collect="always">
+      <stop
+         id="stop4642-8"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4644-2"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4656-0">
+      <stop
+         id="stop4658-9"
+         offset="0"
+         style="stop-color:#a0ffc0;stop-opacity:1;" />
+      <stop
+         id="stop4660-4"
+         offset="1"
+         style="stop-color:#a0ffc0;stop-opacity:0;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3317-4"
+       inkscape:persp3d-origin="128 : 85.333333 : 1"
+       inkscape:vp_z="256 : 128 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 128 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -179,8 +328,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="75.58854"
-     inkscape:cy="95.093264"
+     inkscape:cx="-37.691853"
+     inkscape:cy="90.940415"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -221,12 +370,9 @@
      inkscape:label="icon"
      transform="translate(0,-256)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#4080c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 128,256 C 57.307552,256 0,313.30755 0,384 c 0,70.69245 57.307552,128 128,128 70.69245,0 128,-57.30755 128,-128 0,-70.69245 -57.30755,-128 -128,-128 z m 0,16 c 30.92795,0 58.91949,12.54449 79.1875,32.8125 L 150.625,361.375 C 144.83414,355.58414 136.83656,352 128,352 l 0,-80 z m 0,93.71875 c 10.09892,0 18.28125,8.18233 18.28125,18.28125 0,10.09892 -8.18233,18.28125 -18.28125,18.28125 -10.09892,0 -18.28125,-8.18233 -18.28125,-18.28125 0,-10.09892 8.18233,-18.28125 18.28125,-18.28125 z M 105.375,406.625 C 111.16586,412.41586 119.16344,416 128,416 l 0,80 C 97.072054,496 69.080514,483.45551 48.8125,463.1875 L 105.375,406.625 z"
-       id="path3328"
-       inkscape:export-filename="C:\Users\sofias\Pictures\redox_monochrome\optical.png"
-       inkscape:export-xdpi="11.25"
-       inkscape:export-ydpi="11.25" />
+       style="fill:#80c040;fill-opacity:1;stroke:none"
+       d="m 0,256 c 10.666667,53.33333 21.333333,106.66667 32,160 -10.666667,32 -21.333333,64 -32,96 74.666667,0 149.33333,0 224,0 10.66667,-53.33333 21.33333,-106.66667 32,-160 -10.66667,-32 -21.33333,-64 -32,-96 -74.66667,0 -149.333333,0 -224,0 z m 64,48 c 26.666667,0 53.33333,0 80,0 0,10.66667 0,21.33333 0,32 14.4375,0 28.875,0 43.3125,0 12.22917,12.22917 24.45833,24.45833 36.6875,36.6875 0,30.4375 0,60.875 0,91.3125 -32,0 -64,0 -96,0 0,-10.66667 0,-21.33333 0,-32 -21.33333,0 -42.666667,0 -64,0 0,-5.33333 0,-10.66667 0,-16 -5.333333,0 -10.666667,0 -16,0 0,-10.66667 0,-21.33333 0,-32 5.333333,0 10.666667,0 16,0 0,-26.66667 0,-53.33333 0,-80 z m 80,48 c 0,32 0,64 0,96 21.33333,0 42.66667,0 64,0 0,-21.33333 0,-42.66667 0,-64 -10.66667,0 -21.33333,0 -32,0 0,-10.66667 0,-21.33333 0,-32 -10.66667,0 -21.33333,0 -32,0 z"
+       id="path3818"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
