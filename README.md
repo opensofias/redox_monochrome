@@ -12,3 +12,7 @@ these are monochromatic vector icons (or glyphs), somewhat based on on my previo
  * #8040C0 (purple-ish) for file/data formats
 * minimal skeumorphism, prefer systems over metaphors
 * beauty
+
+## history
+
+the icons are based on and inspired by my previos "duochrome" icon set, which can be downloaded here: http://asset-0.soupcdn.com/asset/10979/9034_0f3f.7z
